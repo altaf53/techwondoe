@@ -1,0 +1,27 @@
+{
+  "name": "techwondoe",
+  "version": "1.0.0",
+  "description": "Assignment Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altaf53/techwondoe.git"
+  },
+  "author": "Altaf Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altaf53/techwondoe/issues"
+  },
+  "homepage": "https://github.com/altaf53/techwondoe#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1"
+  }
+}
